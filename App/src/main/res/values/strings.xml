@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">practicaJSON</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="form_intro">Introduce los datos:</string>
+    <string name="form_nombre">nombre:</string>
+    <string name="form_edad">edad:</string>
+    <string name="form_submit">Terminar</string>
+</resources>
